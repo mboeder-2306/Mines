@@ -1,6 +1,7 @@
 {
     "name": "mines.neothethird",
     "description": "Clear the minefield.",
+    "architecture": "@CLICK_ARCH@",
     "title": "Mines",
     "hooks": {
         "mines": {
@@ -10,5 +11,5 @@
     },
     "version": "1.1",
     "maintainer": "Jan Sprinz <neo@neothethird.de>",
-    "framework" : "ubuntu-sdk-15.04.6"
+    "framework" : "ubuntu-sdk-20.04"
 }

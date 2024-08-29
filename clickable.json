@@ -1,4 +1,3 @@
 {
-  "template": "pure-qml-cmake",
   "kill": "qmlscene"
 }
